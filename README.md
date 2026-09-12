@@ -54,7 +54,7 @@ Documentation: https://www.steamwebapi.com/mcp
 ## Install from GitHub in Claude Code
 
 ```text
-/plugin marketplace add sellrock-projects/steamwebapi-claude-plugin
+/plugin marketplace add steamwebapi/steamwebapi-claude-plugin
 /plugin install steamwebapi@steamwebapi
 ```
 
