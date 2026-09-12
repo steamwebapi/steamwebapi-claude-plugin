@@ -1,0 +1,18 @@
+{
+  "name": "steamwebapi",
+  "version": "1.0.0",
+  "description": "Build SteamWebAPI integrations with live endpoint discovery, data guidance and CS2 catalog workflows.",
+  "author": {
+    "name": "SteamWebAPI",
+    "url": "https://www.steamwebapi.com"
+  },
+  "homepage": "https://www.steamwebapi.com/mcp",
+  "keywords": [
+    "steam",
+    "cs2",
+    "inventory",
+    "market-prices",
+    "mcp"
+  ],
+  "repository": "https://github.com/sellrock-projects/steamwebapi-claude-plugin"
+}
