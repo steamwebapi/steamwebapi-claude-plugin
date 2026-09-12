@@ -14,5 +14,5 @@
     "market-prices",
     "mcp"
   ],
-  "repository": "https://github.com/sellrock-projects/steamwebapi-claude-plugin"
+  "repository": "https://github.com/steamwebapi/steamwebapi-claude-plugin"
 }
