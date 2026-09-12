@@ -1,0 +1,16 @@
+{
+  "name": "steamwebapi",
+  "owner": {
+    "name": "SteamWebAPI"
+  },
+  "plugins": [
+    {
+      "name": "steamwebapi",
+      "source": "./",
+      "description": "Build SteamWebAPI integrations with live endpoint discovery, data guidance and CS2 catalog workflows."
+    }
+  ],
+  "metadata": {
+    "description": "Official SteamWebAPI integration plugin for Claude."
+  }
+}
